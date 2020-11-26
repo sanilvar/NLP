@@ -9,15 +9,14 @@ En este repositorio encontraran ejemplos que sirven de introducción al apasiona
 
 ### Proyectos
 
-- [Recolección de tweets](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
-Haciendo uso de la API de Twitter para adquirir tuits sobre Halloween.
+- [Leer un texto](https://github.com/sanilvar/NLP/blob/master/Taller1.ipynb)
+Leer un archivo de texto usando "pandas" y obtener las palabras mas frecuentes.
 
-- [Análisis de sentimiento](https://www.youtube.com/watch?v=lPhYYRL-llk&ab_channel=manuelcascales)
-Dado un conjunto de datos, se le asignó una puntuación de sentimiento a cada uno de los regístros en el corpus.
+- [Web Scraping](https://www.youtube.com/watch?v=lPhYYRL-llk&ab_channel=manuelcascales)
+Ejemplo de como obtener datos de una pagina web y hacer limpieza del texto
+
+### ¡Lo que hago puede agregar valor a tu organización! 
+
+Entonces agrégame a [LinkedIn](www.linkedin.com/in/ilvar-sanabria-18b7b425)
 
 
-### ¿Me quieres contratar y llevar tu empresa al éxito cósmico? 
-
-Entonces agrégame a [LinkedIn](https://www.linkedin.com/in/vivianamarquez/)
-
-Info: http://vivianamarquez.com/EjemploPortafolioNLP/
