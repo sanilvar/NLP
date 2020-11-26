@@ -12,7 +12,7 @@ En este repositorio encontraran ejemplos que sirven de introducción al apasiona
 - [Leer un texto](https://github.com/sanilvar/NLP/blob/master/Taller1.ipynb)
 Leer un archivo de texto usando "pandas" y obtener las palabras mas frecuentes.
 
-- [Web Scraping](https://www.youtube.com/watch?v=lPhYYRL-llk&ab_channel=manuelcascales)
+- [Web Scraping](https://github.com/sanilvar/NLP/blob/master/Taller2.ipynb)
 Ejemplo de como obtener datos de una pagina web y hacer limpieza del texto
 
 ### ¡Lo que hago puede agregar valor a tu organización! 
