@@ -2,9 +2,9 @@
 
 ## Proyectos NLP 2020
 
-![Image](https://coaching-pro.es/coaching-antiguos/como-descubrir-mi-verdadera-pasion-paso-a-paso)
-Es el momento del los datos, ellos tambien tiene algo que decir. 
-En este repositorio encontraran ejemplos que sirven de introducción al apasionante mundo del Procesamiento de Lenguage Natural - NLP, usando inteligencia aritificial. 
+![Image](https://github.com/sanilvar/NLP/blob/master/pensar-pasiones-300x300.jpg)
+Es el momento de los datos, ellos tambien tiene algo que decir. 
+En este repositorio encontraran ejemplos que sirven de introducción al apasionante mundo del Procesamiento de Lenguage Natural - NLP, usando inteligencia artificial. 
                                                                                                               
 
 ### Proyectos
