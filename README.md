@@ -44,6 +44,6 @@ Extracción de datos de Twiter y analisis de sentimientos usando la libreia vade
 
 ### ¡Lo que hago puede agregar valor a tu organización! 
 
-Entonces agrégame a [LinkedIn](www.linkedin.com/in/ilvar-sanabria-18b7b425)
+Si quieres agrégame a [LinkedIn](www.linkedin.com/in/ilvar-sanabria-18b7b425)
 
 
